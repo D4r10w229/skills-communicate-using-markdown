@@ -5,3 +5,6 @@
 ``` javascript
 lar Mylar = "holaaaaa, ihfwherfih!";
 ```
+- [x] hacer pipi
+- [ ] hacer popo
+- [x] endejadas
